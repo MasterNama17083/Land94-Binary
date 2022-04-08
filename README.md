@@ -2,7 +2,7 @@
 ### _The Officially Released Source Code and Development ROMs!._
 ![Land94_MainLogo](https://media.discordapp.net/attachments/794537416575942677/961700956104441866/Land94_long-logo-1.png)
 #
-## Information:
+## ❔ Information:
 It's **not** a leak source code and ROMs but It's offical released source code. This Hack _(Binary Version)_ is Cancelled.
 #
 # ❓ QNA:
@@ -33,3 +33,12 @@ DanilAstroid will added "Seconder Developer" he's good developer.
 **In 8th April 2022**, I'm sorry for my fault because was didn't know who "I am human" and "Danil" guess it, I'll made it owner rom.
 
 ### _IT'S A DRAMA WHAT'S GOING ON HERE!!!_
+
+#
+
+# ⚠ Warning!
+Carefully to Read, Please be keep away from Source Code, you're not supposed to **SEE THIS!**. This Source Code it obtained confidentiality assets stuff and Developement ROMs.
+
+Someone if wants to **STEAL** Land94'S Assets may will without permission to using this Assets/Source Code.
+
+⚠ **Use Source Code to see it your own RISK!** ⚠
