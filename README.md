@@ -2,6 +2,9 @@
 ### _The Officially Released Source Code and Development ROMs!._
 ![Land94_MainLogo](https://media.discordapp.net/attachments/794537416575942677/961700956104441866/Land94_long-logo-1.png)
 #
+## Information:
+It's **not** a leak source code and ROMs but It's offical released source code. This Hack _(Binary Version)_ is Cancelled.
+#
 # ❓ QNA:
 ## Q1: What Happened Land94?
 
