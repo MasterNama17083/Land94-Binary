@@ -50,3 +50,39 @@ Someone if wants to **STEAL** Land94'S Assets may will without permission to usi
 Please Don't use `git clone https://github.com/MasterNama17083/Land94-Binary.git` or extract files will may cause **BREAK** while processing files result will be stuck or slowing down will more disk space of more gb.
 
 If you want to **small** amounts of `7z` files to extract it.
+
+#
+
+# 📜 Assets Credits:
+```
+Some assets from Dudaw.
+
+Castle and WF Skybox
+by HoloMario.
+
+Beta Goomba Texture
+by PenguinMania.
+
+Beta Coin SFX
+by Swipley.
+
+Beta Mario Model
+from B3313.
+
+Early Castle Theme
+Reacreation
+by MarioMaster810.
+
+Beta DDD Sound Sample
+from Big Taste.
+
+Wet Land 2nd Area
+music from B3313.
+
+Beta Triple jump
+by ChrisBrutalAgresion.
+
+Bowser Beta Shell Texture
+by Inky.
+```
+If you be credited to used hack.
