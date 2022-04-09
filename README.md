@@ -88,3 +88,12 @@ by Inky.
 & Other Credits.
 ```
 If you be credited to used hack.
+
+#
+
+# 🎉 Thanks for Source Code!
+Ah, well... I'm more wasting time hours during uploading **HUGE** Source Code Spents **6 HOURS**, I'm gonna to stop this wasting time... This used `Git Large File Storage (LFS)` using with a Git Bash, btw.
+
+Hopefully, I'm working on Github Project repository it still **work in progress**... Next time will finish my repository.
+
+*sighs*.....
