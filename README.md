@@ -40,5 +40,8 @@ DanilAstroid will added "Seconder Developer" he's good developer.
 Carefully to Read, Please be keep away from Source Code, you're not supposed to **SEE THIS!**. This Source Code it obtained confidentiality assets stuff and Developement ROMs.
 
 Someone if wants to **STEAL** Land94'S Assets may will without permission to using this Assets/Source Code.
-
 ⚠ **Use Source Code to see it your own RISK!** ⚠
+#
+
+# ⚠ Caution!
+Please Don't use `git clone https://github.com/MasterNama17083/Land94-Binary.git` or extract files will may cause **BREAK** while processing files result will be stuck or slowing down will more disk space of more gb.
