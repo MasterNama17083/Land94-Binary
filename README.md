@@ -48,3 +48,5 @@ Someone if wants to **STEAL** Land94'S Assets may will without permission to usi
 
 # ⚠ Caution!
 Please Don't use `git clone https://github.com/MasterNama17083/Land94-Binary.git` or extract files will may cause **BREAK** while processing files result will be stuck or slowing down will more disk space of more gb.
+
+If you want to **small** amounts of `7z` files to extract it.
