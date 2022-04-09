@@ -84,5 +84,7 @@ by ChrisBrutalAgresion.
 
 Bowser Beta Shell Texture
 by Inky.
+
+& Other Credits.
 ```
 If you be credited to used hack.
