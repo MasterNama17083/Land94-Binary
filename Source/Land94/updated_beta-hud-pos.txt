@@ -1,0 +1,32 @@
+** Beta HUD Accurate Position Written by Master Nama ** (UPD: 22/Jan/21) FOR SM64 ROM MANAGER
+Coins HUD:
+Icon X: 170
+Icon Y: 191
+
+X X: 184
+X Y: 209
+
+Counter X: 197
+Counter Y: 191
+
+
+Lives HUD:
+Icon X: 22
+Icon Y: 209
+
+X X: 38
+X Y: 209
+
+Counter X: 54
+Counter Y: 209
+
+
+Star HUD:
+Icon X: 170
+Icon Y: 209
+
+X X: 184
+X Y: 191
+
+Counter X: 183
+Counter Y: 209

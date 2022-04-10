@@ -1,0 +1,32 @@
+** Beta HUD Accurate Written by Master Nama **
+Coins HUD:
+Icon X: 170
+Icon Y: 191
+
+X X: 184
+X Y: 209
+
+Counter X: 198
+Counter Y: 191
+
+
+Lives HUD:
+Icon X: 22
+Icon Y: 209
+
+X X: 38
+X Y: 209
+
+Counter X: 54
+Counter Y: 209
+
+
+Star HUD:
+Icon X: 170
+Icon Y: 209
+
+X X: 184
+X Y: 192
+
+Counter X: 184
+Counter Y: 209

@@ -1,0 +1,6 @@
+Lives HUD (UPD):
+Icon X: 38
+Icon Y: 209
+
+Counter X: 54
+Counter Y: 209
